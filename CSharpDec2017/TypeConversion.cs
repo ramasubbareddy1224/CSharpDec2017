@@ -25,11 +25,12 @@ namespace CSharpDec2017
             int unboxint =Convert.ToInt32(sval);
             double d = Convert.ToDouble(sval);
 
-
+            
 
             object o = i;
             object o1 = converti;
             object o2 = 43.5;
+            Console.WriteLine(o2);
             object o3 = "100aba basdd fs";
 
 
@@ -39,5 +40,9 @@ namespace CSharpDec2017
 
 
         }
+        //private int Test()
+        //{
+        //    int i,Default;
+        //}
     }
 }
