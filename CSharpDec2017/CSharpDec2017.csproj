@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharpDec2017.LoopExample</StartupObject>
+    <StartupObject>CSharpDec2017.MainEntry</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -54,8 +54,10 @@
     <Compile Include="IFElseIF.cs" />
     <Compile Include="LogicalOp.cs" />
     <Compile Include="LoopExample.cs" />
+    <Compile Include="MainEntry.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RelationalOp.cs" />
+    <Compile Include="Student.cs" />
     <Compile Include="Switch.cs" />
     <Compile Include="TypeConversion.cs" />
     <Compile Include="UnaryOp.cs" />
