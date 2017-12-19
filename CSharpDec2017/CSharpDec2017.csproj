@@ -46,9 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AccessSpecifiers.cs" />
     <Compile Include="ArthemeticWithAssingment.cs" />
     <Compile Include="ArthimeticOp.cs" />
     <Compile Include="ConsoleRead.cs" />
+    <Compile Include="ConstructorExample.cs" />
     <Compile Include="HelloWorld.cs" />
     <Compile Include="IFElse.cs" />
     <Compile Include="IFElseIF.cs" />
