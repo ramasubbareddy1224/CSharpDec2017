@@ -51,12 +51,14 @@
     <Compile Include="ArthimeticOp.cs" />
     <Compile Include="ConsoleRead.cs" />
     <Compile Include="ConstructorExample.cs" />
+    <Compile Include="Employee.cs" />
     <Compile Include="HelloWorld.cs" />
     <Compile Include="IFElse.cs" />
     <Compile Include="IFElseIF.cs" />
     <Compile Include="LogicalOp.cs" />
     <Compile Include="LoopExample.cs" />
     <Compile Include="MainEntry.cs" />
+    <Compile Include="MethodOverloading.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RelationalOp.cs" />
     <Compile Include="Student.cs" />

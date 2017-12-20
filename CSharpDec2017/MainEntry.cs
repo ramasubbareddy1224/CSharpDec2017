@@ -44,8 +44,21 @@ namespace CSharpDec2017
             //ConstructorExample constObj = new ConstructorExample(100,"rama");
             //constObj.ConstMethod();
 
-            ConstructorExample constObj2 = new ConstructorExample();
-            ConstructorExample constObj3 = new ConstructorExample();
+            //ConstructorExample constObj2 = new ConstructorExample();
+            //ConstructorExample constObj3 = new ConstructorExample();
+
+            //MethodOverloading overloadObj = new MethodOverloading();
+            //overloadObj.createStudent(10, "pragim");
+
+            Employee empObj = new Employee();
+            empObj.ID = 100;
+            empObj.Name = "Rama";
+            empObj.FirstName = "Rama";
+            empObj.LastName = "M";
+            // empObj.Marks = 80;
+            empObj.GetEmployee();
+            Console.WriteLine("marks:" + empObj.Marks);
+            Console.WriteLine("fullname is:" + empObj.FullName);
 
 
             Console.Read();
