@@ -50,16 +50,27 @@ namespace CSharpDec2017
             //MethodOverloading overloadObj = new MethodOverloading();
             //overloadObj.createStudent(10, "pragim");
 
-            Employee empObj = new Employee();
-            empObj.ID = 100;
-            empObj.Name = "Rama";
-            empObj.FirstName = "Rama";
-            empObj.LastName = "M";
-            // empObj.Marks = 80;
-            empObj.GetEmployee();
-            Console.WriteLine("marks:" + empObj.Marks);
-            Console.WriteLine("fullname is:" + empObj.FullName);
+            //Employee empObj = new Employee();
+            //empObj.ID = 100;
+            //empObj.Name = "Rama";
+            //empObj.FirstName = "Rama";
+            //empObj.LastName = "M";
+            //// empObj.Marks = 80;
+            //empObj.GetEmployee();
+            //Console.WriteLine("marks:" + empObj.Marks);
+            //Console.WriteLine("fullname is:" + empObj.FullName);
 
+            //SIChild SIObj = new SIChild();
+            //SIObj.PrintChildMethod();
+
+            //MLChild MLObj = new MLChild();
+
+            //HIChild1 HIC1Obj = new HIChild1();
+            //HIC1Obj.HIChildMethod();
+
+
+            HIChild2 HIC1Obj2 = new HIChild2();
+            HIC1Obj2.HIChild2Method();
 
             Console.Read();
         }
