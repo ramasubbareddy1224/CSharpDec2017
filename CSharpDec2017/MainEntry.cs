@@ -69,8 +69,14 @@ namespace CSharpDec2017
             //HIC1Obj.HIChildMethod();
 
 
-            HIChild2 HIC1Obj2 = new HIChild2();
-            HIC1Obj2.HIChild2Method();
+            //HIChild2 HIC1Obj2 = new HIChild2();
+            //HIC1Obj2.HIChild2Method();
+
+            //AbstractImplemention ACObj = new AbstractImplemention();
+            //ACObj.PrintMessage();
+
+            SuzikiBalino SBObj = new SuzikiBalino();
+            SBObj.DisplayMessage();
 
             Console.Read();
         }

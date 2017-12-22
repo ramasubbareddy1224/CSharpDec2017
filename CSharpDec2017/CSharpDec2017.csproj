@@ -46,6 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstractClassExample.cs" />
+    <Compile Include="AbstractVehicle.cs" />
     <Compile Include="AccessSpecifiers.cs" />
     <Compile Include="ArthemeticWithAssingment.cs" />
     <Compile Include="ArthimeticOp.cs" />
