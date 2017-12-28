@@ -75,10 +75,23 @@ namespace CSharpDec2017
             //AbstractImplemention ACObj = new AbstractImplemention();
             //ACObj.PrintMessage();
 
-            SuzikiBalino SBObj = new SuzikiBalino();
-            SBObj.DisplayMessage();
+            //AbstractVehicle SBObj = new SuzikiBalino();
+            //SBObj.DisplayMessage();
+
+            //ITransaction transObj = new Transactions();
+            //Console.WriteLine(transObj.GetAmount());
+
+            //Console.WriteLine(transObj.GetAmount());
+
+            //StringAndStringBuilder SBObj = new StringAndStringBuilder();
+            //SBObj.Display();
+
+            ArrayExample arrayObj = new ArrayExample();
+            arrayObj.Display();
 
             Console.Read();
+
+
         }
     }
 }

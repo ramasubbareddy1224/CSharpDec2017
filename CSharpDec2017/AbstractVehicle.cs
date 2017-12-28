@@ -54,6 +54,11 @@ namespace CSharpDec2017
             Console.WriteLine("Suziki Balino with : " + Color);
         }
 
+        public void BalinoInnerMethod()
+        {
+
+        }
+
     }
     public sealed class SuzikiCiaz : AbstractVehicle
     {
