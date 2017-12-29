@@ -19,6 +19,7 @@ namespace CSharpDec2017
             empIds[0] = 100;
             empIds[1] = 101;
             empIds[2] = 102;
+           // empIds[3] = 103;
 
             // Reading array values
             Console.WriteLine(empIds[0]);

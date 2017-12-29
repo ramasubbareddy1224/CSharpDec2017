@@ -86,8 +86,11 @@ namespace CSharpDec2017
             //StringAndStringBuilder SBObj = new StringAndStringBuilder();
             //SBObj.Display();
 
-            ArrayExample arrayObj = new ArrayExample();
-            arrayObj.Display();
+            //ArrayExample arrayObj = new ArrayExample();
+            //arrayObj.Display();
+
+            ExceptionHandling exObj = new ExceptionHandling();
+            exObj.ThrowException();
 
             Console.Read();
 
