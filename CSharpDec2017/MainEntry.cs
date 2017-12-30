@@ -89,8 +89,17 @@ namespace CSharpDec2017
             //ArrayExample arrayObj = new ArrayExample();
             //arrayObj.Display();
 
-            ExceptionHandling exObj = new ExceptionHandling();
-            exObj.ThrowException();
+            //ExceptionHandling exObj = new ExceptionHandling();
+            //exObj.ThrowException();
+
+            //ArrayListExample Obj = new ArrayListExample();
+            //Obj.Display();
+
+            //StackExample Obj = new StackExample();
+            //Obj.Display();
+
+            QueueExample Obj = new QueueExample();
+            Obj.Display();
 
             Console.Read();
 

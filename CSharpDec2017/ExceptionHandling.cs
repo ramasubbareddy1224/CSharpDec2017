@@ -67,7 +67,15 @@ namespace CSharpDec2017
 
         public void ThrowException()
         {
-            throw new NotImplementedException();
+            try
+            {
+                // Ex: More items added
+                throw new UserDefinedException("user created exception");
+            }
+            catch (UserDefinedException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
         }
 
         public void TryFinally()

@@ -50,6 +50,7 @@
     <Compile Include="AbstractVehicle.cs" />
     <Compile Include="AccessSpecifiers.cs" />
     <Compile Include="ArrayExample.cs" />
+    <Compile Include="ArrayListExample.cs" />
     <Compile Include="ArthemeticWithAssingment.cs" />
     <Compile Include="ArthimeticOp.cs" />
     <Compile Include="ConsoleRead.cs" />
@@ -67,14 +68,17 @@
     <Compile Include="MethodOverloading.cs" />
     <Compile Include="MultiLevelInheritance.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QueueExample.cs" />
     <Compile Include="RelationalOp.cs" />
     <Compile Include="SingleInheritance.cs" />
+    <Compile Include="StackExample.cs" />
     <Compile Include="StringAndStringBuilder.cs" />
     <Compile Include="Student.cs" />
     <Compile Include="Switch.cs" />
     <Compile Include="Transactions.cs" />
     <Compile Include="TypeConversion.cs" />
     <Compile Include="UnaryOp.cs" />
+    <Compile Include="UserDefinedException.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
