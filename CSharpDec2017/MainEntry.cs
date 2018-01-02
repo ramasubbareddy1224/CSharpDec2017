@@ -98,9 +98,14 @@ namespace CSharpDec2017
             //StackExample Obj = new StackExample();
             //Obj.Display();
 
-            QueueExample Obj = new QueueExample();
-            Obj.Display();
+            //QueueExample Obj = new QueueExample();
+            //Obj.Display();
 
+            //GenericList Obj = new GenericList();
+            // Obj.Display();
+
+            HashTableExampl Obj = new HashTableExampl();
+            Obj.Display();
             Console.Read();
 
 
