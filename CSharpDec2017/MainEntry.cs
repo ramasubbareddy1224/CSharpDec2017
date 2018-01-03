@@ -104,8 +104,25 @@ namespace CSharpDec2017
             //GenericList Obj = new GenericList();
             // Obj.Display();
 
-            HashTableExampl Obj = new HashTableExampl();
+            //HashTableExampl Obj = new HashTableExampl();
+            //Obj.Display();
+
+            //int data =10 ;
+            //RefOutKeywordExample Obj = new RefOutKeywordExample();
+            //Obj.Display(out data);
+            //Console.WriteLine("print data after Display:" + data);
+
+            StaticExample.StaticDisplay();
+
+            Console.WriteLine(StaticExample.Count);
+
+            StaticExample Obj = new StaticExample();
             Obj.Display();
+
+            StaticExample Obj2 = new StaticExample();
+            Obj2.Display();
+
+
             Console.Read();
 
 
