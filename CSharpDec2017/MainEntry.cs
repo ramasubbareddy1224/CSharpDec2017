@@ -112,15 +112,31 @@ namespace CSharpDec2017
             //Obj.Display(out data);
             //Console.WriteLine("print data after Display:" + data);
 
-            StaticExample.StaticDisplay();
+            // StaticExample.StaticDisplay();
 
-            Console.WriteLine(StaticExample.Count);
+            //Console.WriteLine(StaticExample.Count);
 
-            StaticExample Obj = new StaticExample();
+            //StaticExample Obj = new StaticExample();
+            //Obj.Display();
+
+            //StaticExample Obj2 = new StaticExample();
+            //Obj2.Display();
+
+            //StaticExample Obj3 = new StaticExample();
+            //Obj3.Display();
+
+            //FileStreamExample Obj = new FileStreamExample();
+            //Obj.WriteFile();
+
+            //StreamReaderExample Obj = new StreamReaderExample();
+            //Obj.WriteFile();
+
+            //IComparableExample Obj = new IComparableExample();
+            //Obj.Display();
+
+            IEquatableExample Obj = new IEquatableExample();
             Obj.Display();
 
-            StaticExample Obj2 = new StaticExample();
-            Obj2.Display();
 
 
             Console.Read();

@@ -9,7 +9,7 @@ namespace CSharpDec2017
     public class StaticExample
     {
         int normalCount = 10;
-        public static int Count = 10;
+        public static int StaticCount = 10;
         public static void StaticDisplay()
         {
             Console.WriteLine("This is static display method");
@@ -17,9 +17,9 @@ namespace CSharpDec2017
 
         public void Display()
         {
-            Count += 20;
+            StaticCount += 20;
             normalCount += 20;
-            Console.WriteLine("normal display method with normal Count:" + normalCount + " and static count:" + Count);
+            Console.WriteLine("normal display method with normal Count:" + normalCount + " and static count:" + StaticCount);
         }
     }
 }

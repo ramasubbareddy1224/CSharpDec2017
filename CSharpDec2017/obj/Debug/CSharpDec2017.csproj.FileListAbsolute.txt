@@ -1,6 +1,5 @@
 D:\Rama\DotNet Training Material\Class Room Training\C#\CSharpDec2017\CSharpDec2017\bin\Debug\CSharpDec2017.exe.config
 D:\Rama\DotNet Training Material\Class Room Training\C#\CSharpDec2017\CSharpDec2017\bin\Debug\CSharpDec2017.exe
 D:\Rama\DotNet Training Material\Class Room Training\C#\CSharpDec2017\CSharpDec2017\bin\Debug\CSharpDec2017.pdb
-D:\Rama\DotNet Training Material\Class Room Training\C#\CSharpDec2017\CSharpDec2017\obj\Debug\CSharpDec2017.csprojResolveAssemblyReference.cache
 D:\Rama\DotNet Training Material\Class Room Training\C#\CSharpDec2017\CSharpDec2017\obj\Debug\CSharpDec2017.exe
 D:\Rama\DotNet Training Material\Class Room Training\C#\CSharpDec2017\CSharpDec2017\obj\Debug\CSharpDec2017.pdb

@@ -59,10 +59,13 @@
     <Compile Include="DictionaryExample.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="ExceptionHandling.cs" />
+    <Compile Include="FileStreamExample.cs" />
     <Compile Include="GenericList.cs" />
     <Compile Include="HashTableExampl.cs" />
     <Compile Include="HelloWorld.cs" />
     <Compile Include="HierarchicalInheritance.cs" />
+    <Compile Include="IComparableExample.cs" />
+    <Compile Include="IEquatableExample.cs" />
     <Compile Include="IFElse.cs" />
     <Compile Include="IFElseIF.cs" />
     <Compile Include="ITransaction.cs" />
@@ -78,6 +81,7 @@
     <Compile Include="SingleInheritance.cs" />
     <Compile Include="StackExample.cs" />
     <Compile Include="StaticExample.cs" />
+    <Compile Include="StreamReaderExample.cs" />
     <Compile Include="StringAndStringBuilder.cs" />
     <Compile Include="Student.cs" />
     <Compile Include="Switch.cs" />
